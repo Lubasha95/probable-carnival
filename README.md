@@ -1,4 +1,4 @@
-asdfasdfasdfasdfasasdfadsfasasdfadfadfadfasssscc111MIT License
+asdfasdfaasdfasdfasdfasdfasasdfadsfasasdfadfadfadfasssscc111MIT License
 
 Copyright (c) Luke Edwards <luke.edwards05@gmail.com> (lukeed.com)
 
